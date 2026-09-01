@@ -98,3 +98,4 @@ Useful measures include:
 These numbers can show whether automation is actually improving the business.
 
 Inventory automation is most useful when it connects information from sales, stores, warehouses and purchasing. Retailers looking at the wider role of AI in retail operations can also explore how forecasting, personalization and other AI applications fit into the same system.
+Learn More - https://www.futurismai.com/industries/retail-industry/
